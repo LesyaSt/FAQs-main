@@ -9,7 +9,7 @@ import { Questions } from '../components/Questions.jsx';
         <>
        <section 
        className='flex-block items-center justify-left p-[20px]
-        bg-white rounded-xl w-fitt max-w-[700px] '> 
+        bg-white rounded-xl w-fitt min-w-[500px]  max-w-[700px] '> 
         
         <div className='flex bg-none mb-5'>
         <img src={image} alt="star" className=" w-10 mr-5 "/>
